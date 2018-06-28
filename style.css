@@ -1,0 +1,27 @@
+.parallax {
+    background: url("https://pix10.agoda.net/hotelImages/115/1157073/1157073_16062412150044053329.jpg?s=1024x768");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box {
+    width: 500px;
+    height: 300px;
+    border-radius: 25px;
+    position: relative;
+    top: 300px;
+    left: 30px;
+}
+
+.logo-color {
+    background: yellow;
+}
+
+.h1 {
+    background: orange;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
